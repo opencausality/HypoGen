@@ -1,0 +1,49 @@
+Title: Obesity, Metabolic Inflammation, and Respiratory Comorbidity
+
+Abstract:
+Obesity causes a chronic low-grade inflammatory state (metabolic inflammation) that
+interacts with environmental exposures to worsen respiratory outcomes. This study
+examines causal pathways connecting BMI, adipose inflammation, and respiratory disease.
+
+Introduction:
+The obesity epidemic has substantially increased the population-level burden of
+inflammatory disease. Adipose tissue in obese individuals is not metabolically inert —
+it causes chronic systemic inflammation through adipokine secretion and macrophage
+infiltration. This metabolic inflammation likely interacts with other inflammatory
+triggers, including air pollution.
+
+Key Causal Findings:
+1. Excess adipose tissue causes elevated leptin and reduced adiponectin, shifting
+   immune balance toward pro-inflammatory states.
+
+2. Adipose inflammation causes insulin resistance through TNF-α mediated disruption
+   of insulin signaling, establishing a causal pathway from obesity to metabolic syndrome.
+
+3. Metabolic inflammation causes lung function impairment independent of smoking and
+   pollution, with each 5-unit increase in BMI causing a 1.8% reduction in FEV1/FVC.
+
+4. Obese individuals showed a synergistic response to air pollution: the same PM2.5
+   exposure caused 40% greater inflammatory elevation in obese vs. normal-weight individuals.
+
+5. Weight loss (≥10% body weight) caused measurable reductions in IL-6, TNF-α, and
+   CRP within 6 months, confirming the causal direction from obesity to inflammation.
+
+Discussion:
+The causal pathway obesity → adipose inflammation → systemic inflammation → respiratory
+disease is well-supported. However, whether interventions targeting adipose inflammation
+directly (without weight loss) can interrupt this pathway is unknown.
+
+The interaction between air pollution-induced and obesity-induced inflammation suggests
+shared downstream pathways. Whether these pathways are additive or multiplicative has
+implications for identifying the highest-risk populations.
+
+Physical activity may address both causal drivers simultaneously: exercise reduces
+both pollution-induced inflammation and obesity-related adipose inflammation. The
+combined effect of exercise on both causal pathways to respiratory disease is a
+priority area for future research.
+
+Conclusion:
+Obesity is an independent causal driver of systemic inflammation and respiratory disease.
+The synergistic interaction with air pollution creates compounding risk in obese urban
+populations. Causal interventions targeting adipose inflammation offer a promising
+therapeutic approach.

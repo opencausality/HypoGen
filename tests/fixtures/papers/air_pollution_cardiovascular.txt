@@ -1,0 +1,44 @@
+Title: Air Pollution as a Causal Driver of Cardiovascular and Systemic Inflammation
+
+Abstract:
+Long-term exposure to particulate air pollution causes systemic inflammation, increasing
+cardiovascular and respiratory disease risk. This meta-analysis of 23 studies (n = 890,000)
+quantifies the causal effect of PM2.5 on inflammatory markers and downstream disease outcomes.
+
+Introduction:
+The cardiovascular effects of air pollution are mediated through systemic inflammatory
+pathways. Particulate matter enters the bloodstream via pulmonary absorption and directly
+causes endothelial inflammation. This inflammation subsequently accelerates atherosclerosis
+and increases cardiovascular disease risk.
+
+Key Findings:
+1. PM2.5 exposure (per 10 μg/m³ increase) caused a 12% increase in CRP levels
+   (pooled OR: 1.12, 95% CI: 1.08-1.17).
+
+2. Systemic inflammation caused by air pollution mediated 45% of the cardiovascular
+   disease risk attributable to pollution.
+
+3. The causal pathway was confirmed through Mendelian randomization: genetic variants
+   associated with higher residential pollution exposure showed the same inflammatory
+   and cardiovascular outcomes.
+
+4. Air pollution causes endothelial dysfunction through oxidative stress mechanisms,
+   leading to increased arterial stiffness.
+
+5. Long-term air pollution exposure causes chronic obstructive pulmonary disease (COPD)
+   through persistent airway inflammation, consistent with findings in cohort studies.
+
+Discussion:
+The evidence for a causal rather than correlational relationship between air pollution
+and inflammation is now robust. Natural experiments (policy changes reducing pollution)
+demonstrate that reductions in PM2.5 cause corresponding reductions in inflammatory
+markers within 6-12 months.
+
+Inflammation serves as the critical hub connecting air pollution exposure to multiple
+downstream disease outcomes including respiratory disease, cardiovascular disease,
+and metabolic syndrome.
+
+Conclusion:
+Air pollution is a causal driver of systemic inflammation, which mediates its effects
+on multiple organ systems. Reducing pollution exposure causes measurable improvements
+in inflammatory profiles and downstream health outcomes.

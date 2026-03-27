@@ -1,0 +1,48 @@
+Title: Exercise as a Causal Modulator of Inflammation and Respiratory Health
+
+Abstract:
+Regular aerobic exercise causally reduces chronic inflammation through multiple
+immunological pathways. This RCT (n = 312) demonstrates that a 12-week structured
+exercise intervention significantly reduced inflammatory markers and improved
+lung function in urban adults with moderate air pollution exposure.
+
+Introduction:
+While it is well established that inflammation causes respiratory disease, the role
+of physical activity in modifying this causal pathway is underexplored. Exercise
+is known to reduce baseline inflammatory tone, but whether exercise can interrupt
+the pollution-inflammation-disease pathway has not been tested directly.
+
+Methods:
+Randomized controlled trial. Participants (non-smoking adults, age 30-65) in a
+high-pollution urban area. Intervention: supervised aerobic exercise (150 min/week)
+for 12 weeks. Control: usual activity. Outcome: IL-6, TNF-α, FEV1/FVC ratio.
+
+Results:
+Exercise intervention caused a 23% reduction in IL-6 levels (95% CI: 15-31%, p < 0.001)
+compared to the control group. TNF-α was reduced by 18% (p = 0.004).
+
+Importantly, exercise caused improved lung function (FEV1/FVC ratio +4.2%, p = 0.012)
+independent of pollution exposure, suggesting exercise can partially counteract the
+inflammation caused by air pollution.
+
+The mechanism by which exercise reduces inflammation involves increased production of
+anti-inflammatory myokines (IL-10, IL-15) during muscle contraction. These myokines
+suppress NF-κB signaling, the same pathway activated by air pollution.
+
+Exercise also causes improved mucociliary clearance, which reduces the residence time
+of inhaled particulates in the airways and may directly reduce the inflammatory trigger.
+
+Discussion:
+This trial provides causal evidence that exercise modulates the pollution-inflammation
+pathway. The interaction is mechanistically coherent: exercise causes IL-10 upregulation
+which suppresses the same inflammatory signaling activated by PM2.5.
+
+Whether the exercise-induced reduction in inflammation is sufficient to clinically
+meaningful prevent respiratory disease in high-pollution areas remains an open question.
+The dose-response relationship between exercise intensity and anti-inflammatory effect
+is not fully characterized.
+
+Conclusion:
+Exercise causally reduces inflammation through myokine-mediated immunomodulation and
+improved mucociliary clearance. Future studies should test whether exercise can meaningfully
+modify the causal pathway from air pollution to respiratory disease outcomes.
